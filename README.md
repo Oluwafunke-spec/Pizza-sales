@@ -1,5 +1,5 @@
-Pizza Sales Analysis Project
-Overview
+**Pizza Sales Analysis Project
+Overview**
 
 This project analyzes pizza sales data to gain insights into customer preferences, sales trends, and revenue generation for a pizza delivery company. The analysis includes exploring various aspects of the sales dataset, such as pizza categories, top-selling ingredients, sales trends over time, and revenue by date.
 Project Structure

@@ -9,7 +9,7 @@ Project Structure
     Power BI Report: Contains the Power BI report (pizza_sales_analysis.pbix) created to visualize the analysis results.
     Documentation: Contains project documentation, including README.md and any additional documentation files.
 
-Analysis Approach
+**Analysis Approach**
 
     Data Exploration:
         Examined the dataset to understand its structure and contents.
@@ -23,14 +23,14 @@ Analysis Approach
         Developed a Power BI report to visualize the analysis results.
         Created interactive dashboards and visuals to explore sales trends, customer preferences, and revenue generation.
 
-Key Insights
+**Key Insights**
 
     Classic pizzas are the most popular category, with the highest sales.
     Pepperoni, cheese, and mushrooms are the top three ingredients ordered.
     Sales revenue fluctuates over time, with peaks in certain months.
     Large-sized pizzas are the most ordered size across most categories.
 
-Usage
+**Usage**
 
     Data Preparation:
         Ensure the pizza_sales.csv dataset is available in the "Data" folder.
@@ -42,6 +42,6 @@ Usage
         Open the Power BI report (pizza_sales_analysis.pbix) to visualize the analysis results.
         Interact with the dashboards and visuals to explore insights further.
 
-Contributing
+**Contributing**
 
 Contributions to improve the analysis, add new insights, or enhance the project documentation are welcome! Please fork the repository, make your changes, and submit a pull request.
